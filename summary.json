@@ -1,0 +1,14 @@
+{
+  "best_config": [
+    500,
+    75
+  ],
+  "best_mrr": 0.592,
+  "best_hit1": 0.5,
+  "best_hit5": 0.8,
+  "accuracy": 0.7,
+  "accuracy_auto": 0.65,
+  "models": [
+    "openai/gpt-oss-120b"
+  ]
+}
